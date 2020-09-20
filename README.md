@@ -1,2 +1,2 @@
-# splah_screen_flutter
-Flash Screen with Flutter Framework
+# splash_screen_flutter
+Splash Screen with Flutter Framework
